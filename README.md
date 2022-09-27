@@ -1,6 +1,4 @@
-![image](https://github.com/data-folks/data-science-learning-path/blob/main/assets/banner.jpg)
 
-![image](https://visitor-badge.laobi.icu/badge?page_id=data-folks/data-science-learning-path) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url] [![Discord][discord-shield]][discord-url] [![Medium][medium-shield]][medium-url]
 
 ## Brief Introduction
 
@@ -32,9 +30,8 @@ This learning path is intended for everyone who wants to learn data science and 
     <li><a href="#deep-learning">Deep Learning</a></li>
     <li><a href="#ml-applications">ML Applications</a></li>
     <li><a href="#computer-vision">Computer Vision</a></li>
-    <li><a href="#nlp--nlu">NLP & NLU</a></li>
-    <li><a href="#speech-recognition">Speech Recognition</a></li>
-    <li><a href="#model-deployment">Model Deployment</a></li>
+    <li><a href="#nlp--nlu">NLP</a></li>
+    
     <li><a href="#book-references">Book References</a></li>
   </ol>
 </details>
@@ -45,10 +42,6 @@ This learning path is intended for everyone who wants to learn data science and 
 2. [Object-oriented Programming](https://realpython.com/python3-object-oriented-programming/)
 3. [Intro to DBMS](https://www.omnisci.com/technical-glossary/dbms)
 4. [SQL Data Manipulation](https://mode.com/sql-tutorial/introduction-to-sql)
-5. [Git](https://git-scm.com/doc)
-6. Code Versioning Platform: [Github](https://github.com/) | [Bitbucket](https://bitbucket.org/) | [Gitlab](https://about.gitlab.com/)
-7. [Shell Script](https://dagshub.com/blog/effective-linux-bash-data-scientists/)
-8. Competitive Programming: [Hackerrank](https://www.hackerrank.com/) | [Leetcode](https://leetcode.com/) | [Kattis](https://open.kattis.com/)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
@@ -87,7 +80,6 @@ This learning path is intended for everyone who wants to learn data science and 
 13. [TOOLBOX: statsmodels](https://www.statsmodels.org/stable/index.html)
 14. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 15. [CASE STUDY: Titanic](https://www.kaggle.com/c/titanic)
-16. [CASE STUDY: Credit Scoring](https://www.kaggle.com/sakshigoyal7/credit-card-customers)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
@@ -108,20 +100,11 @@ This learning path is intended for everyone who wants to learn data science and 
 3. [Precision](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score)
 4. [Recall](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score)
 5. [F Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html#sklearn.metrics.f1_score)
-6. [Hamming Loss](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.hamming_loss.html#sklearn.metrics.hamming_loss)
-7. [ROC (Receiver Operating Characteristic)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html)
-8. [ROC AUC (Area Under Curve)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score)
-9. [Top K Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.top_k_accuracy_score.html#sklearn.metrics.top_k_accuracy_score)
-10. [MAE](https://www.statisticshowto.com/absolute-error/)
-11. [MSE](https://www.freecodecamp.org/news/machine-learning-mean-squared-error-regression-line-c7dde9a26b93/)
-12. MRR
-13. DCG
-14. NDCG
-15. PSNR
-16. SSIM
-17. IoU
-18. Perplexity
-19. BLEU score
+6. [ROC (Receiver Operating Characteristic)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html)
+7. [ROC AUC (Area Under Curve)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score)
+8. [MAE](https://www.statisticshowto.com/absolute-error/)
+9. [MSE](https://www.freecodecamp.org/news/machine-learning-mean-squared-error-regression-line-c7dde9a26b93/)
+
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
@@ -143,9 +126,8 @@ This learning path is intended for everyone who wants to learn data science and 
 7. [Dropout](https://leonardoaraujosantos.gitbook.io/artificial-inteligence/machine_learning/deep_learning/dropout_layer)
 8. [Batchnorm](https://www.baeldung.com/cs/batch-normalization-cnn)
 9. [Learning Rate Scheduler](https://towardsdatascience.com/learning-rate-schedules-and-adaptive-learning-rate-methods-for-deep-learning-2c8f433990d1)
-10. [TOOLBOX: PyTorch](https://pytorch.org/)
-11. [TOOLBOX: Tensorflow](https://www.tensorflow.org/)
-12. [TOOLBOX: Keras](https://keras.io)
+10. [TOOLBOX: Tensorflow](https://www.tensorflow.org/)
+11. [TOOLBOX: Keras](https://keras.io)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
@@ -161,8 +143,6 @@ This learning path is intended for everyone who wants to learn data science and 
 
 1. Image Classification
 2. Object Detection
-3. Object Segmentation
-4. Instance Segmentation
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
@@ -175,10 +155,7 @@ This learning path is intended for everyone who wants to learn data science and 
 5.  Lemmatization
 6.  Feature Extraction
 7.  Feature Selection
-8.  Term Weighting
 9.  Embedding
-10. Part of Speech Tagging
-11. Named Entity Recognition
 12. Popular NLP & NLU Architecture
 13. [STUDY CASE: News Classification](http://qwone.com/~jason/20Newsgroups/)
 14. [STUDY CASE: Sentiment Analysis](https://medium.com/data-folks-indonesia/indonesian-app-review-sentiment-analysis-using-neural-network-and-pytorch-54c0ef766c09)
@@ -186,40 +163,3 @@ This learning path is intended for everyone who wants to learn data science and 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-## Speech Recognition
-
-<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
-
-## Model Deployment
-
-<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
-
-## Book References
-
-1. [Practical Deep Learning for Coders](https://course.fast.ai/)
-2. [Dive Into Deep Learning](http://d2l.ai/index.html)
-3. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-4. [An Introduction to Statistical Learning with Applications in R](https://web.stanford.edu/~hastie/ISLRv2_website.pdf)
-5. [Natural Language Processing with Python](https://www.nltk.org/book/)
-
-<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/data-folks/data-science-learning-path.svg?flat
-[contributors-url]: https://github.com/data-folks/data-science-learning-path/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/data-folks/data-science-learning-path.svg?flat
-[forks-url]: https://github.com/data-folks/data-science-learning-path/network/members
-[stars-shield]: https://img.shields.io/github/stars/data-folks/data-science-learning-path.svg?flat
-[stars-url]: https://github.com/data-folks/data-science-learning-path/stargazers
-[issues-shield]: https://img.shields.io/github/issues/data-folks/data-science-learning-path.svg?flat
-[issues-url]: https://github.com/data-folks/data-science-learning-path/issues
-[license-shield]: https://img.shields.io/github/license/data-folks/data-science-learning-path.svg?flat
-[license-url]: https://github.com/data-folks/data-science-learning-path/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/company/jakartaresearch/
-[discord-shield]: https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white
-[discord-url]: https://bit.ly/DiscordJakartaResearch
-[medium-shield]: https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white
-[medium-url]: http://medium.com/data-folks-indonesia
