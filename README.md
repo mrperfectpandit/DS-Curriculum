@@ -28,11 +28,7 @@ This learning path is intended for everyone who wants to learn data science and 
       </ul>
     </li>
     <li><a href="#deep-learning">Deep Learning</a></li>
-    <li><a href="#ml-applications">ML Applications</a></li>
-    <li><a href="#computer-vision">Computer Vision</a></li>
-    <li><a href="#nlp--nlu">NLP</a></li>
     
-    <li><a href="#book-references">Book References</a></li>
   </ol>
 </details>
 
@@ -131,35 +127,8 @@ This learning path is intended for everyone who wants to learn data science and 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-## ML Applications
 
-1. Timeseries
-2. Recommendation System
-3. Netwok Analysis
 
-<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
-
-## Computer Vision
-
-1. Image Classification
-2. Object Detection
-
-<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
-
-## NLP & NLU
-
-1.  Tokenization
-2.  Sequence
-3.  Padding
-4.  Stemming
-5.  Lemmatization
-6.  Feature Extraction
-7.  Feature Selection
-9.  Embedding
-12. Popular NLP & NLU Architecture
-13. [STUDY CASE: News Classification](http://qwone.com/~jason/20Newsgroups/)
-14. [STUDY CASE: Sentiment Analysis](https://medium.com/data-folks-indonesia/indonesian-app-review-sentiment-analysis-using-neural-network-and-pytorch-54c0ef766c09)
-15. [STUDY CASE: Machine Translation](http://www.manythings.org/anki/)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
