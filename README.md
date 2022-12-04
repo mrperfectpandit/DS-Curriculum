@@ -64,8 +64,8 @@ This learning path is intended for everyone who wants to learn data science and 
 7.  [Random Forest](https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/)
 8.  [XGBoost](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 12. [TOOLBOX: Scikit Learn](https://scikit-learn.org/stable/)
-13. [CASE STUDY 1: 
-14. [CASE STUDY 2: 
+13.  CASE STUDY 1: 
+14.  CASE STUDY 2: 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
@@ -114,7 +114,8 @@ This learning path is intended for everyone who wants to learn data science and 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-## Capstone Project---
+## Capstone mini Project---
+## Capstone major Project---
 
 
 
