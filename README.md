@@ -35,9 +35,51 @@ This learning path is intended for everyone who wants to learn data science and 
 ## Programming
 
 1. [Python](https://www.learnpython.org/)
+   - Variables and Data Types
+   - Operators and Expressions
+   - Control Flow (if, elif, else, for, while)
+   - Functions
+   - Python Data Structure - Lists, Tuples, and Dictionaries
+   - File Handling
+   - Exception Handling
+   - Modules and Packages
+   - Lambda Functions
+### Data Processing Modules
 
+1. [NumPy](https://numpy.org/)
+   - Array Creation and Manipulation
+   - Mathematical Functions
+   - Linear Algebra Operations
+   - Statistical Functions
+   - Broadcasting
+   - Indexing and Slicing
+   - File I/O
+   
+2. [Pandas](https://pandas.pydata.org/)
+   - Data Structures (Series, DataFrame)
+   - Data Cleaning and Preprocessing
+   - Indexing and Selecting Data
+   - Grouping and Aggregating Data
+   - Merging and Joining DataFrames
+   - Reshaping and Pivoting Data
+   - Handling Missing Data
+   
+3. [Matplotlib](https://matplotlib.org/)
+   - Basic Plotting (Line Plot, Scatter Plot, Bar Plot, Histogram)
+   - Customizing Plots (Labels, Titles, Legends, Colors)
+   - Subplots and Layouts
+   - Plot Annotations and Text
+   - 3D Plotting
+   
+4. [Seaborn](https://seaborn.pydata.org/)
+   - Statistical Data Visualization
+   - Distribution Plots (Histograms, Kernel Density Estimation)
+   - Categorical Plots (Bar Plots, Box Plots, Violin Plots)
+   - Scatter and Line Plots with Regression Analysis
+   - Pair Plots and Heatmaps
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
+
 
 ## Mathematics & Statistics
 
