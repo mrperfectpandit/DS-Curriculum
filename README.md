@@ -159,6 +159,19 @@ This learning path is intended for everyone who wants to learn data science and 
 9. [TOOLBOX: Tensorflow](https://www.tensorflow.org/)
 10. [TOOLBOX: Keras](https://keras.io)
 
+## Advance topic Natural Language Processing (NLP)
+
+1. [Tokenization](https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html)
+2. [Stopwords Removal](https://en.wikipedia.org/wiki/Stop_words)
+3. [Stemming and Lemmatization](https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html)
+4. [Bag of Words (BoW)](https://en.wikipedia.org/wiki/Bag-of-words_model)
+5. [Term Frequency-Inverse Document Frequency (TF-IDF)](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+6. [Word Embeddings (Word2Vec, GloVe)](https://en.wikipedia.org/wiki/Word_embedding)
+7. [Recurrent Neural Networks (RNNs)](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+8. [Long Short-Term Memory (LSTM)](https://en.wikipedia.org/wiki/Long_short-term_memory)
+9. [Gated Recurrent Units (GRU)](https://en.wikipedia.org/wiki/Gated_recurrent_unit)
+10. [Attention Mechanism](https://en.wikipedia.org/wiki/Attention_mechanism)
+
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
 ## Capstone mini Project---
