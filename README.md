@@ -20,15 +20,10 @@ This learning path is intended for everyone who wants to learn data science and 
         <li><a href="#unsupervised-learning">Unsupervised Learning</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#evaluation-metrics">Evaluation Metrics</a>
-      <ul>
-        <li><a href="#supervised-learning-1">Supervised Learning</a></li>
-        <li><a href="#unsupervised-learning-1">Unsupervised Learning</a></li>
-      </ul>
-    </li>
+    <li><a href="#evaluation-metrics">Evaluation Metrics</a></li>
     <li><a href="#deep-learning">Deep Learning</a></li>
-    
+    <li><a href="#advanced-nlp">Advanced Natural Language Processing (NLP)</a></li>
+    <li><a href="#capstone-projects">Capstone Projects</a></li>
   </ol>
 </details>
 
