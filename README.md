@@ -114,6 +114,10 @@ This learning path is intended for everyone who wants to learn data science and 
 - ### Unsupervised Learning
 
 1. [K-Means Clustering](https://www.kdnuggets.com/2019/05/guide-k-means-clustering-algorithm.html)
+2. [Hierarchical Clustering](https://en.wikipedia.org/wiki/Hierarchical_clustering)
+3. [DBSCAN (Density-Based Spatial Clustering of Applications with Noise)](https://en.wikipedia.org/wiki/DBSCAN)
+4. [Gaussian Mixture Models (GMM)](https://en.wikipedia.org/wiki/Mixture_model#Gaussian_mixture_model)
+5. [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
@@ -138,6 +142,7 @@ This learning path is intended for everyone who wants to learn data science and 
 - ### Unsupervised Learning
 
 1. [Elbow Method](<https://en.wikipedia.org/wiki/Elbow_method_(clustering)>)
+2. [Silhouette Score](https://en.wikipedia.org/wiki/Silhouette_(clustering))
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
